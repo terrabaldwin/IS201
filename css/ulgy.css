@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Custom font */
+body {
+    font-family: Georgia, serif;
+}
+
+/* Custom font color */
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+}
+
+/* Custom div styling */
+.content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+/* Custom link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
